@@ -1,0 +1,113 @@
+[
+    {
+      "Question": "What was Tandem previous name?",
+      "Incorrect": ["Tandem", "Burger Shack", "Extraordinary Humans"],
+      "Correct": "Devmynd"
+    },
+    {
+      "Question": "In Shakespeare's play Julius Caesar, Caesar's last words were...",
+      "Incorrect": ["Iacta alea est!", "Vidi, vini, vici", "Aegri somnia vana"],
+      "Correct": "Et tu, Brute?"
+    },
+    {
+      "Question": "A group of tigers are referred to as:",
+      "Incorrect": ["Chowder", "Pride", "Destruction"],
+      "Correct": "Ambush"
+    },
+    {
+      "Question": "What is the top speed an average cat can travel?",
+      "Incorrect": ["42 mph", "13 mph", "9 mph"],
+      "Correct": "31 mph"
+    },
+    {
+      "Question": "A cat can jump to _____ times its own height:",
+      "Incorrect": ["3", "9", "7"],
+      "Correct": "5"
+    },
+    {
+      "Question": "What is the only letter that doesn't appear in a US state name?",
+      "Incorrect": ["M", "Z", "X"],
+      "Correct": "Q"
+    },
+    {
+      "Question": "What is the name for a cow-bison hybrid?",
+      "Incorrect": ["Cowson", "Bicow", "Mooson"],
+      "Correct": "Beefalo"
+    },
+    {
+      "Question": "What is the largest freshwater lake in the world?",
+      "Incorrect": ["Lake Baikal", "Lake Michigan", "Lake Victoria"],
+      "Correct": "Lake Superior"
+    },
+  
+    {
+      "Question": "In a website address bar, what does WWW stand for?",
+      "Incorrect": ["Wild Wild West", "War World Web"],
+      "Correct": "World Wide Web"
+    },
+    {
+      "Question": "In a game of bingo, what number is represented by the name two little ducks?",
+      "Incorrect": ["20", "55", "77"],
+      "Correct": "22"
+    },
+    {
+      "Question": "According to Greek mythology, who was the first woman on Earth?",
+      "Incorrect": ["Lilith", "Eve", "Hera"],
+      "Correct": "Pandora"
+    },
+    {
+      "Question": "In which European city would you find Orly airport?",
+      "Incorrect": ["London", "Belgium", "Munich"],
+      "Correct": "Paris"
+    },
+    {
+      "Question": "Where would you find the Sea of Tranquility?",
+      "Incorrect": ["California", "Siberia", "China"],
+      "Correct": "The Moon"
+    },
+    {
+      "Question": "Which artist painted 'Girl with a Pearl Earrin'?",
+      "Incorrect": ["Van Gogh", "Picasso", "Da Vinci"],
+      "Correct": "Vermeer"
+    },
+    {
+      "Question": "What is the official name for the 'hashtag' symbol?",
+      "Incorrect": ["Number sign", "Hash Sign", "Pound"],
+      "Correct": "Octothorpe"
+    },
+    {
+      "Question": "Not American at all, where is apple pie from?",
+      "Incorrect": ["Japan", "Ethiopia", "Canada"],
+      "Correct": "England"
+    },
+    {
+      "Question": "What is the national animal of Scotland?",
+      "Incorrect": ["Bear", "Rabbit", "Seal"],
+      "Correct": "Unicorn"
+    },
+    {
+      "Question": "Where in the world is the only place where Canada is *due south*",
+      "Incorrect": ["Alaska", "Russia", "Washington"],
+      "Correct": "Detroit"
+    },
+    {
+      "Question": "Approximately how many grapes go into a bottle of wine?",
+      "Incorrect": ["500", "200", "1000"],
+      "Correct": "700"
+    },
+    {
+      "Question": "How much does a US One Dollar Bill cost to make?",
+      "Incorrect": ["$0.25", "$1", "$5"],
+      "Correct": "$0.05"
+    },
+    {
+      "Question": "The Vatican bank has the only ATM in the world that allows users to do what?",
+      "Incorrect": [
+        "Receive withdrawls in rosary beads",
+        "Vote for the Pope",
+        "Purchase indulgences"
+      ],
+      "Correct": "Perform transactions in Latin"
+    }
+  ]
+  

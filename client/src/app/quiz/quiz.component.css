@@ -1,0 +1,23 @@
+.btn-success:hover {
+    color: #fff;
+    background-color: #b3c7d6ff;
+    border-color:#85b3d1ff;
+}
+.btn-success {
+  color: #fff;
+  background-color: #eea47fff;
+  border-color: #85b3d1ff;
+}
+
+.btn-success:not(:disabled):not(.disabled):active, .btn-success:not(:disabled):not(.disabled).active, .show > .btn-success.dropdown-toggle {
+  color: #fff;
+  background-color: #b3c7d6ff;
+  border-color: #b3c7d6ff;
+}
+
+.btn-success.disabled, .btn-success:disabled {
+  color: #fff;
+  background-color: #b3c7d6ff;
+  border-color: #b3c7d6ff;
+  opacity: 100;
+}

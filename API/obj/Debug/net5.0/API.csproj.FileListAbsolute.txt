@@ -1,0 +1,390 @@
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\appsettings.json
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Data\QuestionSeedData.json
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\API.exe
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\API.deps.json
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\API.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\API.pdb
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.dll
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.pdb
+C:\Users\fahua\Documents\TriviaTandem\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\fahua\Documents\TriviaTandem\API\bin\Debug\net5.0\Data\Sample.json
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\appsettings.Development.json
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\appsettings.json
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Data\QuestionSeedData.json
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Data\Sample.json
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\API.exe
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\API.deps.json
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\API.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\ref\API.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\API.pdb
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\AutoMapper.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Humanizer.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\updates\TandemTrivia-master\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.dll
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\ref\API.dll
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.pdb
+C:\updates\TandemTrivia-master\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\appsettings.json
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Data\QuestionSeedData.json
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Data\Sample.json
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.exe
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.deps.json
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.pdb
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.pdb
+C:\Users\fahua\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\appsettings.json
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Data\QuestionSeedData.json
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Data\Sample.json
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.exe
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.deps.json
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\API.pdb
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.pdb
+C:\Users\fehuaman\OneDrive - Lowe's Companies Inc\Documents\GitHub\TandemTriviaUpdated\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\appsettings.json
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Data\QuestionSeedData.json
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Data\Sample.json
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\API.exe
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\API.deps.json
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\API.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\API.pdb
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.pdb
+C:\Users\fahua\Documents\GitHub\TandemTrivia\API\obj\Debug\net5.0\API.genruntimeconfig.cache
