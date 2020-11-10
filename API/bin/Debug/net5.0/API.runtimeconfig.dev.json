@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\fahua\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\fahua\\.nuget\\packages",
+      "C:\\Users\\Nando\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Nando\\.nuget\\packages",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }

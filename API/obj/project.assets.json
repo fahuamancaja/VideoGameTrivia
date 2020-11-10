@@ -111,7 +111,7 @@
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Abstractions.dll": {}
         }
       },
-      "Microsoft.EntityFrameworkCore.Analyzers/5.0.0-rc.2.20475.6": {
+      "Microsoft.EntityFrameworkCore.Analyzers/5.0.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/_._": {}
@@ -808,17 +808,17 @@
         "microsoft.entityframeworkcore.abstractions.nuspec"
       ]
     },
-    "Microsoft.EntityFrameworkCore.Analyzers/5.0.0-rc.2.20475.6": {
-      "sha512": "6jPGmsT+wod+yqgE+7Ti/qelrRA/schKZaT+Ys/UaGtddBie0jTCR8PJ/xb6wiaU/hmXeNm0zMmeYymJYzES7w==",
+    "Microsoft.EntityFrameworkCore.Analyzers/5.0.0": {
+      "sha512": "l1c/1ge8ymXgLqtstTyX3PZOLRuFo1jn0FQ9H4ag3Bwz70KTMyEOXwkKBZZ1gDlCibETrooflMis8wvvXFh5YQ==",
       "type": "package",
-      "path": "microsoft.entityframeworkcore.analyzers/5.0.0-rc.2.20475.6",
+      "path": "microsoft.entityframeworkcore.analyzers/5.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Icon.png",
         "analyzers/dotnet/cs/Microsoft.EntityFrameworkCore.Analyzers.dll",
         "lib/netstandard2.0/_._",
-        "microsoft.entityframeworkcore.analyzers.5.0.0-rc.2.20475.6.nupkg.sha512",
+        "microsoft.entityframeworkcore.analyzers.5.0.0.nupkg.sha512",
         "microsoft.entityframeworkcore.analyzers.nuspec"
       ]
     },
@@ -1695,7 +1695,7 @@
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.0-rc.2.20475.17",
       "Microsoft.EntityFrameworkCore >= 5.0.0-rc.2.20475.6",
-      "Microsoft.EntityFrameworkCore.Analyzers >= 5.0.0-rc.2.20475.6",
+      "Microsoft.EntityFrameworkCore.Analyzers >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0-rc.2.20475.6",
       "Microsoft.EntityFrameworkCore.Sqlite >= 5.0.0-rc.2.20475.6",
       "Newtonsoft.Json >= 12.0.3",
@@ -1704,23 +1704,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\fahua\\.nuget\\packages\\": {},
+    "C:\\Users\\Nando\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fahua\\Documents\\GitHub\\TandemTrivia\\API\\API.csproj",
+      "projectUniqueName": "c:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\fahua\\Documents\\GitHub\\TandemTrivia\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\fahua\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fahua\\Documents\\GitHub\\TandemTrivia\\API\\obj\\",
+      "projectPath": "c:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\Nando\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\fahua\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Nando\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -1758,7 +1758,7 @@
           },
           "Microsoft.EntityFrameworkCore.Analyzers": {
             "target": "Package",
-            "version": "[5.0.0-rc.2.20475.6, )"
+            "version": "[5.0.0, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -1801,7 +1801,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

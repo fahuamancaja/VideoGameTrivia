@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fahua\\Documents\\GitHub\\TandemTrivia\\API\\API.csproj": {}
+    "C:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fahua\\Documents\\GitHub\\TandemTrivia\\API\\API.csproj": {
+    "C:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fahua\\Documents\\GitHub\\TandemTrivia\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\fahua\\Documents\\GitHub\\TandemTrivia\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\fahua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fahua\\Documents\\GitHub\\TandemTrivia\\API\\obj\\",
+        "projectPath": "C:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Nando\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\fahua\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Nando\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -55,7 +55,7 @@
             },
             "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
-              "version": "[5.0.0-rc.2.20475.6, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -98,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

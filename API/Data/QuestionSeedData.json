@@ -1,113 +1,452 @@
 [
-    {
-      "Question": "What was Tandem previous name?",
-      "Incorrect": ["Tandem", "Burger Shack", "Extraordinary Humans"],
-      "Correct": "Devmynd"
-    },
-    {
-      "Question": "In Shakespeare's play Julius Caesar, Caesar's last words were...",
-      "Incorrect": ["Iacta alea est!", "Vidi, vini, vici", "Aegri somnia vana"],
-      "Correct": "Et tu, Brute?"
-    },
-    {
-      "Question": "A group of tigers are referred to as:",
-      "Incorrect": ["Chowder", "Pride", "Destruction"],
-      "Correct": "Ambush"
-    },
-    {
-      "Question": "What is the top speed an average cat can travel?",
-      "Incorrect": ["42 mph", "13 mph", "9 mph"],
-      "Correct": "31 mph"
-    },
-    {
-      "Question": "A cat can jump to _____ times its own height:",
-      "Incorrect": ["3", "9", "7"],
-      "Correct": "5"
-    },
-    {
-      "Question": "What is the only letter that doesn't appear in a US state name?",
-      "Incorrect": ["M", "Z", "X"],
-      "Correct": "Q"
-    },
-    {
-      "Question": "What is the name for a cow-bison hybrid?",
-      "Incorrect": ["Cowson", "Bicow", "Mooson"],
-      "Correct": "Beefalo"
-    },
-    {
-      "Question": "What is the largest freshwater lake in the world?",
-      "Incorrect": ["Lake Baikal", "Lake Michigan", "Lake Victoria"],
-      "Correct": "Lake Superior"
-    },
-  
-    {
-      "Question": "In a website address bar, what does WWW stand for?",
-      "Incorrect": ["Wild Wild West", "War World Web"],
-      "Correct": "World Wide Web"
-    },
-    {
-      "Question": "In a game of bingo, what number is represented by the name two little ducks?",
-      "Incorrect": ["20", "55", "77"],
-      "Correct": "22"
-    },
-    {
-      "Question": "According to Greek mythology, who was the first woman on Earth?",
-      "Incorrect": ["Lilith", "Eve", "Hera"],
-      "Correct": "Pandora"
-    },
-    {
-      "Question": "In which European city would you find Orly airport?",
-      "Incorrect": ["London", "Belgium", "Munich"],
-      "Correct": "Paris"
-    },
-    {
-      "Question": "Where would you find the Sea of Tranquility?",
-      "Incorrect": ["California", "Siberia", "China"],
-      "Correct": "The Moon"
-    },
-    {
-      "Question": "Which artist painted 'Girl with a Pearl Earrin'?",
-      "Incorrect": ["Van Gogh", "Picasso", "Da Vinci"],
-      "Correct": "Vermeer"
-    },
-    {
-      "Question": "What is the official name for the 'hashtag' symbol?",
-      "Incorrect": ["Number sign", "Hash Sign", "Pound"],
-      "Correct": "Octothorpe"
-    },
-    {
-      "Question": "Not American at all, where is apple pie from?",
-      "Incorrect": ["Japan", "Ethiopia", "Canada"],
-      "Correct": "England"
-    },
-    {
-      "Question": "What is the national animal of Scotland?",
-      "Incorrect": ["Bear", "Rabbit", "Seal"],
-      "Correct": "Unicorn"
-    },
-    {
-      "Question": "Where in the world is the only place where Canada is *due south*",
-      "Incorrect": ["Alaska", "Russia", "Washington"],
-      "Correct": "Detroit"
-    },
-    {
-      "Question": "Approximately how many grapes go into a bottle of wine?",
-      "Incorrect": ["500", "200", "1000"],
-      "Correct": "700"
-    },
-    {
-      "Question": "How much does a US One Dollar Bill cost to make?",
-      "Incorrect": ["$0.25", "$1", "$5"],
-      "Correct": "$0.05"
-    },
-    {
-      "Question": "The Vatican bank has the only ATM in the world that allows users to do what?",
-      "Incorrect": [
-        "Receive withdrawls in rosary beads",
-        "Vote for the Pope",
-        "Purchase indulgences"
-      ],
-      "Correct": "Perform transactions in Latin"
-    }
-  ]
-  
+   {
+      "Question":"When was the first Call of Duty title released?",
+      "Correct":"October 29, 2003",
+      "Incorrect":[
+         "December 1, 2003",
+         "November 14, 2002",
+         "July 18, 2004"
+      ]
+   },
+   {
+      "Question":"What was the code name given to Sonic the Hedgehog 4 during its development?",
+      "Correct":"Project Needlemouse",
+      "Incorrect":[
+         "Project Bluespike",
+         "Project Roboegg",
+         "Project Darksphere"
+      ]
+   },
+   {
+      "Question":"Which of these TrackMania environments was NOT in the original game?",
+      "Correct":"Bay",
+      "Incorrect":[
+         "Desert",
+         "Snow",
+         "Rally"
+      ]
+   },
+   {
+      "Question":"How many people can you recruit in the game Suikoden in a single playthrough?",
+      "Correct":"107",
+      "Incorrect":[
+         "108",
+         "93",
+         "96"
+      ]
+   },
+   {
+      "Question":"In the Super Mario Bros. Series, what is Yoshi&#039;s scientific name?",
+      "Correct":"T. Yoshisaur Munchakoopas",
+      "Incorrect":[
+         "Yoshi",
+         "T. Yoshisotop Munchakoopas",
+         "Yossy"
+      ]
+   },
+   {
+      "Question":"The map featured in Arma 3 named &quot;Altis&quot; is based off of what Greek island?",
+      "Correct":"Lemnos",
+      "Incorrect":[
+         "Ithaca",
+         "Naxos",
+         "Anafi"
+      ]
+   },
+   {
+      "Question":"How many copies of the notorious E.T. game for the Atari 2600 did Atari end up selling?",
+      "Correct":"1.5 Million",
+      "Incorrect":[
+         "1 Million",
+         "250 Thousand",
+         "Less than 250 Thousand"
+      ]
+   },
+   {
+      "Question":"Which video game was recalled for containing a hidden, playable South Park episode?",
+      "Correct":"Tiger Woods 99 PGA Tour",
+      "Incorrect":[
+         "Tony Hawk&#039;s Pro Skater 3",
+         "Sonic Adventure",
+         "Madden 99"
+      ]
+   },
+   {
+      "Question":"In &quot;Sonic the Hedgehog 2&quot; for the Sega Genesis, what do you input in the sound test screen to access the secret level select?",
+      "Correct":"The Lead Programmer&#039;s birthday",
+      "Incorrect":[
+         "The first release date of &quot;Sonic the Hedgehog&quot;",
+         "The date Sonic Team was founded",
+         "The first release date of &quot;Sonic the Hedgehog 2&quot;"
+      ]
+   },
+   {
+      "Question":"In the Animal Crossing series, which flower is erroneously called the &quot;Jacob&#039;s Ladder&quot;?",
+      "Correct":"Lily of the Valley",
+      "Incorrect":[
+         "Hydrangea",
+         "Harebell",
+         "Yarrow"
+      ]
+   },
+   {
+      "Question":"In &quot;Sonic the Hedgehog 3&quot; for the Sega Genesis, what is the color of the second Chaos Emerald you can get from Special Stages?",
+      "Correct":"Orange",
+      "Incorrect":[
+         "Blue",
+         "Green",
+         "Magenta"
+      ]
+   },
+   {
+      "Question":"How long are all the cutscenes from Metal Gear Solid 4 (PS3, 2008) combined?",
+      "Correct":"8 hours",
+      "Incorrect":[
+         "4 hours",
+         "12 hours",
+         "5 hours"
+      ]
+   },
+   {
+      "Question":"What is the fastest speed possible in Trackmania&sup2;: Stadium?",
+      "Correct":"1000  km\/h",
+      "Incorrect":[
+         "500 km\/h",
+         "320 km\/h",
+         "100 km\/h"
+      ]
+   },
+   {
+      "Question":"Which of these online games was originally named LindenWorld in it&#039;s early development?",
+      "Correct":"SecondLife",
+      "Incorrect":[
+         "ActiveWorlds",
+         "IMVU",
+         "HabboHotel"
+      ]
+   },
+   {
+      "Question":"Which game was exclusive to Dreamcast?",
+      "Correct":"Pen Pen TriIcelon",
+      "Incorrect":[
+         "Sylvester &amp; Tweety in Cagey Capers",
+         "Perfect Dark",
+         "Tetrisphere"
+      ]
+   },
+   {
+      "Question":"What is the name of the main character in the video game VA-11 HALL-A: Cyberpunk Bartender Action?",
+      "Correct":"Jill",
+      "Incorrect":[
+         "Dana",
+         "Alma",
+         "Anna"
+      ]
+   },
+   {
+      "Question":"Which souls game was not directed by Hidetaka Miyazaki?",
+      "Correct":"Dark Souls 2",
+      "Incorrect":[
+         "Demon Souls",
+         "Dark Souls",
+         "Dark Souls 3"
+      ]
+   },
+   {
+      "Question":"What animal is on Link&#039;s pajamas in The Legend of Zelda: The Wind Waker?",
+      "Correct":"Crawfish",
+      "Incorrect":[
+         "Lobster",
+         "Salmon",
+         "Swordfish"
+      ]
+   },
+   {
+      "Question":"In Xenoblade Chronicles X, which class has a sniper rifle as it&#039;s primary weapon?",
+      "Correct":"Partisan Eagle",
+      "Incorrect":[
+         "Blast Fencer",
+         "Winged Viper",
+         "Bastion Warrior"
+      ]
+   },
+   {
+      "Question":"In World of Warcraft lore, which of the following is known as the God of Spiders in the troll&#039;s loa beliefs?",
+      "Correct":"Elortha no Shadra",
+      "Incorrect":[
+         "Bwonsamdi",
+         "Hakkar",
+         "Shirvallah"
+      ]
+   },
+   {
+      "Question":"Which character, in the game &quot;Morenatsu&quot;, has the most possible endings to their route, at a total of four different endings?",
+      "Correct":"Shin Kuroi",
+      "Incorrect":[
+         "Kouya Aotsuki",
+         "Soutarou Touno",
+         "Torahiko Ooshima"
+      ]
+   },
+   {
+      "Question":"In what year was the game &quot;Eliminator&quot; released?",
+      "Correct":"1998",
+      "Incorrect":[
+         "2000",
+         "1999",
+         "2001"
+      ]
+   },
+   {
+      "Question":"Which of these Pok&eacute;mon cannot learn Surf?",
+      "Correct":"Arbok",
+      "Incorrect":[
+         "Linoone",
+         "Tauros",
+         "Nidoking"
+      ]
+   },
+   {
+      "Question":"Which of these characters was considered, but ultimately not included, for Super Smash Bros. Melee?",
+      "Correct":"James Bond",
+      "Incorrect":[
+         "Diddy Kong",
+         "Mega Man",
+         "Wave Racer"
+      ]
+   },
+   {
+      "Question":"In Super Smash Bros. for Nintendo 3DS and Nintendo Wii U, who was the sixth fighter to be added to the game post-launch?",
+      "Correct":"Corrin",
+      "Incorrect":[
+         "Cloud",
+         "Bayonnetta",
+         "Ryu"
+      ]
+   },
+   {
+      "Question":"The creeper in Minecraft was the result of a bug while implementing which creature?",
+      "Correct":"Pig",
+      "Incorrect":[
+         "Zombie",
+         "Chicken",
+         "Cow"
+      ]
+   },
+   {
+      "Question":"In &quot;Halo&quot;, what is the name of the planet which Installation 04 orbits?",
+      "Correct":"Threshold",
+      "Incorrect":[
+         "Substance",
+         "Sanghelios",
+         "Te"
+      ]
+   },
+   {
+      "Question":"&quot;Gimmick!&quot; is a Japanese Famicom game that uses a sound chip expansion in the cartridge. What is it called?",
+      "Correct":"FME-7",
+      "Incorrect":[
+         "VRC7",
+         "VRC6",
+         "MMC5"
+      ]
+   },
+   {
+      "Question":"In &quot;Super Mario Sunshine&quot;, how do you unlock the &quot;Corona Mountain&quot; level?",
+      "Correct":"By clearing every 7th episode",
+      "Incorrect":[
+         "By obtaining 70 Shines",
+         "By clearing every episode involving a &quot;Secret&quot;",
+         "By unlocking every nozzle F.L.U.D.D can use"
+      ]
+   },
+   {
+      "Question":"How many aces can be shot down through the entirety of &quot;Ace Combat Zero: The Belkan War&quot;?",
+      "Correct":"169",
+      "Incorrect":[
+         "100",
+         "132",
+         "245"
+      ]
+   },
+   {
+      "Question":"In &quot;The Binding of Isaac&quot;, which item instantly kills Mom and Mom&#039;s Heart?",
+      "Correct":"The Bible",
+      "Incorrect":[
+         "The Halo",
+         "Brimstone",
+         "Book of Shadows"
+      ]
+   },
+   {
+      "Question":"In &quot;Call Of Duty: Zombies&quot;, which weapon does NOT deal any damage?",
+      "Correct":"31-79 JGb215",
+      "Incorrect":[
+         "Sliquifier",
+         "V-R11",
+         "Wunderwaffe DG-2"
+      ]
+   },
+   {
+      "Question":"Which artist composed the original soundtrack for &quot;Watch Dogs 2&quot;?",
+      "Correct":"Hudson Mohawke",
+      "Incorrect":[
+         "Rustie",
+         "Machinedrum",
+         "Flying Lotus"
+      ]
+   },
+   {
+      "Question":"Which of these characters wasn&#039;t a villian in Club Penguin?",
+      "Correct":"The Director",
+      "Incorrect":[
+         "Herbert P. Bear",
+         "Tusk",
+         "Ultimate Proto-Bot 10000"
+      ]
+   },
+   {
+      "Question":"In &quot;Magicka&quot;, which two elements are combined to cast the spell, &quot;Nullify&quot;?",
+      "Correct":"Arcane + Shield",
+      "Incorrect":[
+         "Lightning + Shield",
+         "Lightning + Life",
+         "Arcane + Life"
+      ]
+   },
+   {
+      "Question":"When was the Valve Corporation founded?",
+      "Correct":"August 24, 1996",
+      "Incorrect":[
+         "December 26, 1994",
+         "March 22, 1997",
+         "March 13, 1997"
+      ]
+   },
+   {
+      "Question":"In &quot;Team Fortress 2&quot;, what is the fastest taunt kill that can be pulled off?",
+      "Correct":"Showdown",
+      "Incorrect":[
+         "Hadouken",
+         "Organ Grinder",
+         "Skewer"
+      ]
+   },
+   {
+      "Question":"What is the name of the main island in PLAYERUNKNOWN&#039;S BATTLEGROUNDS?",
+      "Correct":"Erangel",
+      "Incorrect":[
+         "Marmara",
+         "Severny",
+         "Lastovo"
+      ]
+   },
+   {
+      "Question":"In &quot;The Witness&quot;, how many lasers must be activated to get into the mountain area?",
+      "Correct":"7",
+      "Incorrect":[
+         "8",
+         "5",
+         "12"
+      ]
+   },
+   {
+      "Question":"&quot;Exile&quot; and &quot;Revelations&quot; were the third and fourth installments of which PC game series?",
+      "Correct":"Myst",
+      "Incorrect":[
+         "Shivers",
+         "Doom",
+         "Tropico"
+      ]
+   },
+   {
+      "Question":"What Pok&eacute;mon&#039;s Base Stat Total does not change when it evolves?",
+      "Correct":"Scyther",
+      "Incorrect":[
+         "Pikachu",
+         "Sneasel",
+         "Larvesta"
+      ]
+   },
+   {
+      "Question":"What is the name of the alien species introduced in Shadow the Hedgehog (2005)?",
+      "Correct":"Black Arms",
+      "Incorrect":[
+         "The Swarm",
+         "Black Hive",
+         "The Eclipse"
+      ]
+   },
+   {
+      "Question":"The creation of the  Entertainment Software Ratings Board (ESRB) is often associated with Mortal Kombat and what FMV video game?",
+      "Correct":"Night Trap",
+      "Incorrect":[
+         "Sewer Shark",
+         "The Daedalus Encounter",
+         "Corpse Killer"
+      ]
+   },
+   {
+      "Question":"In Disney&#039;s &quot;Toontown Online&quot;, which of these species wasn&#039;t available as a Toon?",
+      "Correct":"Cow",
+      "Incorrect":[
+         "Monkey",
+         "Bear",
+         "Pig"
+      ]
+   },
+   {
+      "Question":"In Left 4 Dead, what is the character Bill&#039;s last name?",
+      "Correct":"Overbeck",
+      "Incorrect":[
+         "Fish",
+         "Roberts",
+         "Stevenson"
+      ]
+   },
+   {
+      "Question":"What Touhou Project character&#039;s first ever appearance was as a midboss in the eighth game, Imperishable Night?",
+      "Correct":"Tewi Inaba",
+      "Incorrect":[
+         "Mystia Lorelei",
+         "Kaguya Houraisan",
+         "Rumia"
+      ]
+   },
+   {
+      "Question":"In Geometry Dash, what is level 13?",
+      "Correct":"Electroman Adventures",
+      "Incorrect":[
+         "Theory of Everything",
+         "Clubstep ",
+         "Clutterfunk"
+      ]
+   },
+   {
+      "Question":"In the Team Fortress 2 canon, what did Shakespearicles NOT invent?",
+      "Correct":"Stairs",
+      "Incorrect":[
+         "Two-Story Building",
+         "Rocket Launcher",
+         "Stage Play"
+      ]
+   },
+   {
+      "Question":"Which retro video game was released first?",
+      "Correct":"Space Invaders",
+      "Incorrect":[
+         "Galaga",
+         "Pac-Man",
+         "Asteroids"
+      ]
+   },
+   {
+      "Question":"In the game Enter the Gungeon, which one of these is not a playable character?",
+      "Correct":"The Wizard",
+      "Incorrect":[
+         "The Bullet",
+         "The Robot",
+         "The Cultist"
+      ]
+   }
+]
