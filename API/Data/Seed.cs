@@ -17,20 +17,22 @@ namespace API.Data
 
             var questionData = await System.IO.File.ReadAllTextAsync("Data/QuestionSeedData.json");
 
+
             var myDeserializedClass = JsonSerializer.Deserialize<List<Example>>(questionData);
             
+
 
             foreach (var item in myDeserializedClass)
             {
                 var appQuestion = new AppQuestion();
                 var incorrectAnswerList = new List<IncorrectAnswer>();
 
-                appQuestion.Question = item.Question;
-                appQuestion.Correct = item.Correct;
+                appQuestion.Question = System.Net.WebUtility.HtmlDecode(item.Question);
+                appQuestion.Correct = System.Net.WebUtility.HtmlDecode(item.Correct);
                 foreach (var thing in item.Incorrect)
                 {
                     var incorrectAnswer = new IncorrectAnswer();
-                    incorrectAnswer.Incorrect = thing;
+                    incorrectAnswer.Incorrect = System.Net.WebUtility.HtmlDecode(thing);
                     incorrectAnswerList.Add(incorrectAnswer);
                 }
                 appQuestion.Incorrect = incorrectAnswerList;
