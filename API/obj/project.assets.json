@@ -1704,23 +1704,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nando\\.nuget\\packages\\": {},
+    "C:\\Users\\fehuaman\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\fehuaman\\OneDrive - Lowe's Companies Inc\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Nando\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\obj\\",
+      "projectPath": "C:\\Users\\fehuaman\\OneDrive - Lowe's Companies Inc\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\fehuaman\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fehuaman\\OneDrive - Lowe's Companies Inc\\Documents\\GitHub\\VideoGameTrivia\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Nando\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\fehuaman\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -1801,7 +1801,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj": {}
+    "C:\\Users\\fehuaman\\OneDrive - Lowe's Companies Inc\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj": {
+    "C:\\Users\\fehuaman\\OneDrive - Lowe's Companies Inc\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\fehuaman\\OneDrive - Lowe's Companies Inc\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\Nando\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nando\\Documents\\GitHub\\VideoGameTrivia\\API\\obj\\",
+        "projectPath": "C:\\Users\\fehuaman\\OneDrive - Lowe's Companies Inc\\Documents\\GitHub\\VideoGameTrivia\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\fehuaman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fehuaman\\OneDrive - Lowe's Companies Inc\\Documents\\GitHub\\VideoGameTrivia\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Nando\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\fehuaman\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -98,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
         }
       }
     }
